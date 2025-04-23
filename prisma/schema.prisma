@@ -46,6 +46,6 @@ model User {
 
 enum Role {
   ADMIN
-  TECK
+  TECh
   USER
 }
