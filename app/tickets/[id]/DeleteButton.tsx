@@ -46,7 +46,7 @@ const DeleteButton = ({ ticketId }: { ticketId: number }) => {
                     <AlertDialogHeader>
                         <AlertDialogTitle>Are you absolutely sure?</AlertDialogTitle>
                         <AlertDialogDescription>
-                            This action cannot be undone. This will permanently delete your ticket                 and remove your data from our servers.
+                            This action cannot be undone. This will permanently delete your ticket and remove your data from our servers.
                         </AlertDialogDescription>
                     </AlertDialogHeader>
                     <AlertDialogFooter>
